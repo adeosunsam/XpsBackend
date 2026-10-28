@@ -1,0 +1,6 @@
+@Xpress.Savings_HostAddress = http://localhost:5234
+
+GET {{Xpress.Savings_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

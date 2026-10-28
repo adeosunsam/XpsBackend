@@ -1,0 +1,6 @@
+@Xpress.Api_HostAddress = http://localhost:5073
+
+GET {{Xpress.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Xpress.Api/Xpress.Api.csproj" />
+  <Project Path="Xpress.Application/Xpress.Application.csproj" />
+  <Project Path="Xpress.Domain/Xpress.Domain.csproj" />
+  <Project Path="Xpress.Infrastructure/Xpress.Infrastructure.csproj" />
+  <Project Path="Xpress.Savings/Xpress.Savings.csproj" Id="40cef897-0bce-4c32-9725-c94f9f3bce7f" />
+</Solution>
